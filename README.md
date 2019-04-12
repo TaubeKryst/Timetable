@@ -28,4 +28,5 @@ Install [Kivy](https://kivy.org/#download)
 * Download client configuration and save the file client_secret.json to your working directory
 * Run the application
 
-
+If you're successful, you'll see something like this:
+![alt text](https://github.com/TaubeKryst/Timetable/blob/master/timeTable.png)
