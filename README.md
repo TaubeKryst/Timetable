@@ -1,6 +1,6 @@
 # Kivy-Timetable
 
-Kivy-Timetable as name suggests is a schedule application integrated with Google Calendar
+Kivy Timetable as name suggests is a scheduler application integrated with the Google Calendar API
 
 Its source code is written completely in Python and Kivy
 
